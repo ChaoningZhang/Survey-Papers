@@ -20,3 +20,5 @@
 - [Text-to-image Diffusion Model in Generative AI: A Survey](https://github.com/chenshuang-zhang/Awesome-Text-To-Image-Diffusion-Models)
 - [A Survey on Audio Diffusion Models: Text to Speech Synthesis and Enhancement in Generative AI](https://github.com/chenshuang-zhang/Awesome-Audio-Diffusion-Models)
 - [One Small Step for Generative AI, One Giant Leap for AGI: A Complete Survey on ChatGPT in AIGC Era](https://github.com/ChaoningZhang/Awesome-ChatGPT-and-AutoGPT)
+
+The detailed information of these papers will be coming soon, please stay tuned.
